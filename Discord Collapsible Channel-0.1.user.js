@@ -21,6 +21,12 @@
 	div[class*='sidebarList']:hover {
 	        width:240px !important;
 	}
+ [aria-label="Servers sidebar"] {
+  width: 16px !important;
+	transition: width 0.3s !important;
+}
+[aria-label="Servers sidebar"]:hover {
+	        width:70px !important
     `;
 
   // Injecting the custom CSS into the page
