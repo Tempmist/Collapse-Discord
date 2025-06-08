@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Discord Collapsible Channel
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  Discord
 // @author       You
 // @match        https://discord.com/*
 // @grant        GM_addStyle
+// @updateURL https://raw.githubusercontent.com/Tempmist/Collapse-Discord/refs/heads/main/Discord%20Collapsible%20Channel-0.1.user.js
+// @downloadURL https://raw.githubusercontent.com/Tempmist/Collapse-Discord/refs/heads/main/Discord%20Collapsible%20Channel-0.1.user.js
 // ==/UserScript==
 
 (function() {
