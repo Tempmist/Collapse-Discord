@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Discord Collapsible Channel
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Discord
 // @author       You
 // @match        https://discord.com/*
